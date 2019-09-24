@@ -1,2 +1,4 @@
 db.sqlite3
 /venv/
+/config/__pycache__/
+/oberon/api/__pycache__/

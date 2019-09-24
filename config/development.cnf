@@ -1,0 +1,5 @@
+[client]
+database = modred_development
+user = root
+password = rootpw
+default-character-set = utf8
